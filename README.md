@@ -1,0 +1,2 @@
+# lnapatest
+Git lerning
